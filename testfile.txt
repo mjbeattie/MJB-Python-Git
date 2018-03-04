@@ -1,0 +1,21 @@
+﻿This is a sample text file I wrote to try Python and uploading with Jupyter.
+Farkas is laying on the couch and I'm watching K-State play West Virginia.  I don't like either team.  Especially since Dolan went to K-State.
+
+Here are some dollar amounts:  $4.98, $99.23, $13.23
+Here is a bad dollar amount: $a.aa
+
+This is a phone number:  (425)233-4907
+And another:  (425)749-2077
+But not this one: (aaa)234-1211
+This is an email address:  imanemail+address@ou.edu
+This is not:  imanemail&address@ou.edu
+Matt married Mary-Pat
+Phil married Janice
+#ae0 married Jane
+Farkasmarried Elaine
+This is an IP address: 255.198.1.1
+and this:  198.164.121.101
+but not this:  301.256.199.1
+Find this:  201.168.1.1
+and this:  201.168.255.255
+but not this:  201.169.1.1
